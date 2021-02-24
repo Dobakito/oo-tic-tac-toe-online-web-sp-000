@@ -94,7 +94,7 @@ class TicTacToe
   
   def winner
    champion = won?
-   champion.first 
+    @board[champion.first]
   end 
 end  
 
