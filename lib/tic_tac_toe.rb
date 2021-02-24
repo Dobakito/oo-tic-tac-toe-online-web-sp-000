@@ -97,6 +97,10 @@ class TicTacToe
     @board[champion.first]
    end
   end 
+  
+  def play 
+    
+  end 
 end  
 
 
