@@ -99,7 +99,8 @@ class TicTacToe
   end 
   
   def play 
-    
+    turn
+    won?
   end 
 end  
 
